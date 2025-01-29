@@ -12,4 +12,4 @@ I'm **Abhishek Vitthal Doltade**, a passionate **Full-Stack Developer**.
 💼 **LinkedIn:** [Abhishek Doltade](https://www.linkedin.com/in/abhishek-doltade15)  
 🐦 **Twitter:** [@AbhishekDoltade](https://twitter.com/AbhishekDoltade)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avdoltade&show_icons=true)
