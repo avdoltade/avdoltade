@@ -18,8 +18,18 @@ I am a passionate Cloud & DevOps Engineer focused on building scalable, highly a
 
 * 🚀 Currently leveling up cloud infrastructure and automation as a **Cloud DevOps Intern** at **Cloudblitz**.
 * ☁️ Previously gained hands-on deployment experience during my internship at **Greamio Technologies**.
-* 🎓 My educational journey: Started with a **Technical Diploma** post-10th, transitioned into a **B.E. in Computer Engineering**, and solidified my skills as a **CDAC PG-DAC Graduate**.
-* 💡 I love exploring new cloud-native technologies and applying infrastructure-as-code principles.
+* 🎓 My educational journey: Started with a **Technical Diploma** post-10th, transitioned directly into a **B.E. in Computer Engineering**, and solidified my skills as a **CDAC PG-DAC Graduate**.
+
+---
+
+### ⚙️ What I Do
+
+I focus on how applications are delivered, scaled, and maintained efficiently. Here are my core competencies:
+
+* **☁️ Cloud Architecture (AWS):** Designing, provisioning, and managing scalable, fault-tolerant cloud environments.
+* **🔄 CI/CD Automation:** Building robust pipelines to automate testing and deployment workflows from code commit to production.
+* **🐳 Containerization & Orchestration:** Packaging applications with Docker and managing clusters with Kubernetes for seamless scaling.
+* **📜 Infrastructure as Code (IaC):** Automating infrastructure provisioning using Terraform to ensure environment consistency and speed.
 
 ---
 
@@ -49,15 +59,6 @@ I am a passionate Cloud & DevOps Engineer focused on building scalable, highly a
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avdoltade&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avdoltade&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
